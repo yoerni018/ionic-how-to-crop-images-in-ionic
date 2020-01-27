@@ -1,5 +1,7 @@
 {
   "name": "HowtoCropImagesinIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
